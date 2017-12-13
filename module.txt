@@ -1,9 +1,12 @@
 {
-    "id" : "Prefabs",
+    "id" : "HouseSwimmingPool",
     "version" : "0.1.0-SNAPSHOT",
     "author" : "",
-    "displayName" : "Prefabs",
+    "displayName" : "HouseSwimmingPool",
     "description" : "",
-    "dependencies" : [],
+    "dependencies" : [{
+                      "id" : "ChiselBlocks",
+                      "minVersion" : "0.1.0"
+                      }],
     "serverSideOnly" : false
 }
