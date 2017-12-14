@@ -1,16 +1,18 @@
 {
-  "StructureTemplate": {
-  },
-  "SpawnBlockRegions": {
-    "regionsToFill": [
-      { "blockType": "ChiselBlocks:cobblestone_tiles-large", "region": { "min": [-8, 0, -5], "size": [6, 2, 1]}},
-      { "blockType": "ChiselBlocks:cobblestone_tiles-large", "region": { "min": [-8, 0, -4], "size": [1, 2, 9]}},
-      { "blockType": "ChiselBlocks:cobblestone_tiles-large", "region": { "min": [-3, 0, -4], "size": [1, 2, 9]}},
-      { "blockType": "ChiselBlocks:cobblestone_tiles-large", "region": { "min": [-8, 0, 5], "size": [6, 2, 1]}},
-      { "blockType": "ChiselBlocks:cobblestone_tiles-large", "region": { "min": [-6, 0, 6], "size": [2, 1, 1]}},
-      { "blockType": "Core:CobbleStone:engine:stair.BACK", "region": { "min": [-6, 1, 6], "size": [2, 1, 1]}},
-      { "blockType": "Core:CobbleStone:engine:stair.BACK", "region": { "min": [-6, 0, 7], "size": [2, 1, 1]}},
-      { "blockType": "core:water", "region": { "min": [-7, 0, -4], "size": [4, 1, 9]}}
-    ]
-  }
+    "StructureTemplate": {
+    },
+    "SpawnBlockRegions": {
+        "regionsToFill": [
+            { "blockType": "ChiselBlocks:cobblestone_tiles-large", "region": { "min": [-8, 1, -5], "size": [6, 2, 1]}},
+            { "blockType": "ChiselBlocks:cobblestone_tiles-large", "region": { "min": [-8, 1, -4], "size": [1, 2, 9]}},
+            { "blockType": "ChiselBlocks:cobblestone_tiles-large", "region": { "min": [-3, 1, -4], "size": [1, 2, 9]}},
+            { "blockType": "ChiselBlocks:cobblestone_tiles-large", "region": { "min": [-8, 1, 5], "size": [6, 2, 1]}},
+            { "blockType": "ChiselBlocks:cobblestone_tiles-large", "region": { "min": [-6, 1, 6], "size": [2, 1, 1]}},
+            { "blockType": "Core:CobbleStone:engine:stair.BACK", "region": { "min": [-6, 2, 6], "size": [2, 1, 1]}},
+            { "blockType": "Core:CobbleStone:engine:stair.BACK", "region": { "min": [-6, 1, 7], "size": [2, 1, 1]}},
+            { "blockType": "core:water", "region": { "min": [-7, 1, -4], "size": [4, 1, 9]}},
+            { "blockType": "engine:air", "region": { "min": [-14, -1, 22], "size": [1, 1, 1]}},
+            { "blockType": "engine:air", "region": { "min": [-16, 0, 28], "size": [1, 1, 1]}}
+        ]
+    }
 }

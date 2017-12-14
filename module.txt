@@ -5,6 +5,9 @@
     "displayName" : "HouseSwimmingPool",
     "description" : "",
     "dependencies" : [{
+                      "id" : "Core",
+                      "minVersion" : "1.5.1-SNAPSHOT"
+                      },{
                       "id" : "ChiselBlocks",
                       "minVersion" : "0.1.0"
                       },
