@@ -7,6 +7,10 @@
     "dependencies" : [{
                       "id" : "ChiselBlocks",
                       "minVersion" : "0.1.0"
+                      },
+                      {
+                      "id" : "StructureTemplates",
+                      "minVersion" : "0.2.0"
                       }],
     "serverSideOnly" : false
 }
